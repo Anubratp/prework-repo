@@ -7,7 +7,7 @@ var mistakeCount;
 var pattern;
 var progress = 0;
 var gamePlaying = false;
-var tonePlaying = false;
+var tonePlaying = true;
 var volume = 0.5;
 var maxTime = 30;
 var x;
